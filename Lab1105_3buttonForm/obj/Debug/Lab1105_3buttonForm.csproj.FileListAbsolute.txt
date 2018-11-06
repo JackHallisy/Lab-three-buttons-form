@@ -1,0 +1,10 @@
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\bin\Debug\Lab1105_3buttonForm.exe.config
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\bin\Debug\Lab1105_3buttonForm.exe
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\bin\Debug\Lab1105_3buttonForm.pdb
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.csprojAssemblyReference.cache
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.Form1.resources
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.Properties.Resources.resources
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.csproj.GenerateResource.cache
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.exe
+C:\CC6\aspnet\Labs\Lab1105_3buttonForm\Lab1105_3buttonForm\obj\Debug\Lab1105_3buttonForm.pdb

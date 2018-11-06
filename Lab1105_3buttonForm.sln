@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1105_3buttonForm", "Lab1105_3buttonForm\Lab1105_3buttonForm.csproj", "{00CB98A4-D155-4037-BC31-182C9D84C13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CB98A4-D155-4037-BC31-182C9D84C13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CB98A4-D155-4037-BC31-182C9D84C13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CB98A4-D155-4037-BC31-182C9D84C13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CB98A4-D155-4037-BC31-182C9D84C13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B936F6-C102-437E-8017-3A3351EC607A}
+	EndGlobalSection
+EndGlobal
